@@ -1,1 +1,1 @@
-# hackthebox-scripts
+# htb-scripts
